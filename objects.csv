@@ -28,7 +28,7 @@
 31,Start Position
 32,Enable Ghost Trail
 33,Disable Ghost Trail
-34,1.0 Level End Trigger
+34,Legacy Level End Trigger
 35,Yellow Jump Pad
 36,Yellow Jump Orb
 39,Half Black Gradient Spike
@@ -141,7 +141,7 @@
 157,Wavy Decoration
 158,Wavy Decoration Left Edge
 159,Wavy Decoration Right Edge
-160,Solid Stripe Top Square
+160,Solid Stripe Single Top Square
 161,Solid Stripe Top Square
 162,Solid Stripe Outer Corner Square
 163,Solid Inner Corner Square
@@ -151,7 +151,7 @@
 167,Solid Stripe Pillar/Top Square
 168,Solid Stripe Single Square
 169,Solid Stripe Checkered 1 Square
-170,Metal Slab Outer Corner
+170,Metal Slab Middle
 171,Metal Slab End Short Connection
 172,Metal Slab End Full Connection
 173,Metal Slab Outer Corner
@@ -277,7 +277,7 @@
 349,Mechanical Colored Slope
 351,Mechanical Colored Wide Slope
 326,Metal Slab Slope
-327,Metal Slab Slope
+327,Metal Slab Wide Slope
 328,Metal Slab Slope Connector
 329,Metal Slab Wide Slope Connector
 358,Wide Striped Slope Connector 2
@@ -584,7 +584,7 @@
 734,Black Tile
 735,Black Tile Slab
 736,Small Black Tile
-737,Stripe Pillar/Outer Corner Square
+737,Old Stripe Pillar/Outer Corner Square
 738,Grey Patterned Tile 
 739,Colored Connected Pluses 2 Adjacent Sides
 740,Large Invisible Blade
@@ -934,7 +934,7 @@
 1172,Neon Block Pillar Bottom-Right Corner
 1173,Neon Block Pillar Top-Left Corner
 1174,Neon Block Horizontal Pillar
-1175,Neon Block Vertical Pillar Top
+1175,Neon Block Vertical Pillar Bottom
 1176,Neon Block Horizontal Pillar Left
 1177,Neon Block Two Opposite Corners
 1178,Neon Block Three Bottom Corners
@@ -942,7 +942,7 @@
 1180,Neon Block Two Left Corners
 1181,Neon Block Top and Bottom Inner Corner
 1182,Neon Block Top and Two Corners
-1183,neon Block Side and Two Corners
+1183,Neon Block Side and Two Corners
 1184,Neon Block Side and Bottom Corner
 1185,Neon Block Bottom and Two Corners
 1186,Neon Block Inner Square
@@ -1228,13 +1228,13 @@
 1588,Heart Hole
 1589,Potion Collectable
 1590,Potion Hole
-1591,Lava Animation
+1591,Lava Animation 1
 1592,Colored Stripes Small Slab Animation
-1593,Lava Animation
+1593,Lava Animation 2
 1594,Toggle Orb
 1595,Touch Trigger
-1596,Skull Decoration
-1597,Skull Decoration
+1596,Skull Decoration Side
+1597,Skull Decoration Front
 1598,Skull Collectable
 1599,Skull Hole
 1600,Wooden Sign
@@ -1459,10 +1459,10 @@
 1819,Background Effect Off Trigger
 1820,Decorative Colored Grid Patterned Square
 1821,Decorative Colored Grid Patterned Top Square
-1823,Decorative Colored Grid Patterned Corner Square
-1824,Decorative Colored Grid Patterned Corner Square
+1823,Decorative Colored Grid Patterned Outer Corner Square
+1824,Decorative Colored Grid Patterned Inner Corner Square
 1825,Decorative Colored Grid Patterned Inner Square
-1826,Decorative Colored Grid Patterned Top Square
+1826,Decorative Colored Grid Patterned Pillar Top Square
 1827,Decorative Colored Grid Patterned Pillar Square
 1828,Decorative Colored Grid Patterned Two Adjacent Corners
 1829,Stop Dash Modifier
@@ -1563,7 +1563,7 @@
 1925,Tiny Four-Tone Pipe Round Outer Corner
 1926,Tiny Four-Tone Pipe End Cap
 1927,One-Ninth Block Colored Square
-1928,Tiny Four-Tone Pipe Round Outer Corner
+1928,Tiny Four-Tone Pipe Round Inner Corner
 1931,Old End Trigger
 1932,Player Control Trigger
 1933,Swing Portal
@@ -1611,7 +1611,7 @@
 2052,Splat Particle Animation 2
 2053,Splash Particle Animation
 2054,Fireball Particle Animation 3
-2055,Explosion Animation
+2055,Fast Center Explosion Animation
 2062,Edge Camera Trigger
 2063,Checkpoint
 2064,Unlinked Orange Teleport Portal
@@ -1639,10 +1639,10 @@
 2086,Pixel B 1 - 4
 2087,Pixel B 1 - 5
 2088,Pixel B 1 - 6
-2089,Pixel Art 611
+2089,Pixel B 1 - 7
 2090,Pixel B 3 - 9
 2091,Pixel B 3 - 10
-2092,Pixel Art 661
+2092,Pixel B 3 - 11
 2093,Pixel B 2 - 6
 2094,Pixel B 2 - 7
 2095,Pixel B 2 - 8
@@ -1686,7 +1686,7 @@
 2133,Pot Pixel Art
 2134,Pixel Art 34
 2135,Pixel Art 35
-2136,Skull Pixel Art
+2136,Detailed Skull Pixel Art
 2137,Pixel Art 37
 2138,Pixel Art 38
 2139,Pixel Art 39
@@ -1966,9 +1966,9 @@
 2413,Pixel Art 313
 2414,Pixel Art 314
 2415,Pixel Art 315
-2416,Wooden Crate Pixel Art
-2417,Wooden Crate Pixel Art
-2418,Wooden Crate Pixel Art
+2416,Wooden Crate Pixel Art 1
+2417,Wooden Crate Pixel Art 2
+2418,Wooden Crate Pixel Art 3
 2419,Pixel Art 319
 2420,Pixel Art 320
 2421,Pixel Art 321
@@ -2107,7 +2107,7 @@
 2554,Pixel Art 454
 2555,Pixel Art 455
 2556,Pixel Art 456
-2557,Pixel Art 455
+2557,Pixel Art 457
 2558,Pixel Art 458
 2559,Pixel Art 459
 2560,Pixel Art 460
@@ -2119,11 +2119,11 @@
 2566,Pixel Art 466
 2567,Pixel Art 467
 2568,Pixel Art 468
-2569,Pixel Art 1042
+2569,Pixel Art 469
 2570,Pixel Art 470
 2571,Pixel Art 471
 2572,Pixel Art 472
-2573,Pixel Art 441
+2573,Pixel Art 473
 2574,Pixel Art 474
 2575,Pixel Art 475
 2576,Pixel Art 476
@@ -2179,8 +2179,8 @@
 2626,Pixel Art 526
 2627,Pixel Art 527
 2628,Pixel Art 528
-2629,Large Animated Fire Pixel Art
-2630,Tiny Animated Fire Pixel Art
+2629,Large Animated Fire Pixel Art 1
+2630,Tiny Animated Fire Pixel Art 2
 2631,Pixel Art 531
 2632,Pixel Art 532
 2633,Pixel Art 533
@@ -2200,10 +2200,10 @@
 2647,Pixel Art 547
 2648,Pixel Art 548
 2649,Pixel Art 549
-2650,Pixel Art 543
+2650,Pixel Art 550
 2651,Pixel Art 551
 2652,Pixel Art 552
-2653,Pixel Art 539
+2653,Pixel Art 553
 2654,Pixel Art 554
 2655,Pixel Art 555
 2656,Pixel Art 556
@@ -2221,18 +2221,18 @@
 2668,Pixel Art 568
 2669,Pixel Art 569
 2670,Pixel Art 570
-2671,Pixel Art 543
+2671,Pixel Art 571
 2672,Pixel Art 572
 2673,Pixel Art 573
-2674,Pixel Art 548
+2674,Pixel Art 574
 2675,Pixel Corner 1
 2676,Pixel Art 576
-2677,Pixel Art 543
+2677,Pixel Art 577
 2678,Pixel Art 578
 2679,Pixel Art 579
 2680,Pixel Art 580
 2681,Pixel Art 581
-2682,Pixel Art 555
+2682,Pixel Art 582
 2683,Pixel Art 583
 2684,Pixel Art 584
 2685,Pixel Art 585
@@ -2245,9 +2245,9 @@
 2692,Pixel Art 592
 2693,Pixel Art 593
 2694,Pixel Art 594
-2695,Pixel Art 1126
+2695,Pixel Art 595
 2696,Pixel Art 596
-2697,Pixel Art 596
+2697,Pixel Art 597
 2698,Pixel Art 598
 2699,Pixel Art 599
 2700,Pixel Art 600
@@ -2635,9 +2635,9 @@
 3132,Pixel Art 632
 3133,Pixel Art 633
 3134,Pixel Art 634
-3135,Jungle Vines Pixel Art
-3136,Jungle Vines Pixel Art
-3137,Jungle Vines Pixel Art
+3135,Jungle Vines Pixel Art 1
+3136,Jungle Vines Pixel Art 2
+3137,Jungle Vines Pixel Art 3
 3138,Pixel Art 638
 3139,Pixel Art 639
 3140,Pixel Art 640
@@ -2733,7 +2733,7 @@
 3230,Pixel Art 730
 3231,Pixel Art 731
 3232,Pixel Art 732
-3233,Pixel Art 732
+3233,Pixel Art 733
 3234,Pixel Art 734
 3235,Pixel Art 735
 3236,Pixel Art 736
@@ -2758,21 +2758,21 @@
 3255,Pixel Art 755
 3256,Pixel Art 756
 3257,Pixel Art 757
-3258,Pixel Art 1139
-3259,Pixel Art 1139
+3258,Pixel Art 758
+3259,Pixel Art 759
 3260,Pixel Art 760
-3261,Pixel Art 124
-3262,Pixel Art 124
+3261,Pixel Art 761
+3262,Pixel Art 762
 3263,Pixel Art 763
 3264,Pixel Art 764
 3265,Pixel Art 765
 3266,Pixel Art 766
 3267,Pixel Art 767
-3268,Pixel Art 124
-3269,Pixel Art 124
+3268,Pixel Art 768
+3269,Pixel Art 769
 3270,Pixel Art 770
-3271,Pixel Art 124
-3272,Pixel Art 770
+3271,Pixel Art 771
+3272,Pixel Art 772
 3273,Pixel Art 773
 3274,Pixel Art 774
 3275,Pixel Art 775
@@ -2791,7 +2791,7 @@
 3288,Pixel Art 788
 3289,Pixel Art 789
 3290,Pixel Art 790
-3291,Pixel Art 790
+3291,Pixel Art 791
 3292,Pixel Art 792
 3293,Pixel Art 793
 3294,Pixel Art 794
@@ -2803,11 +2803,11 @@
 3300,Pixel Art 800
 3301,Pixel Art 801
 3302,Pixel Art 802
-3303,Tiny Animated Fire Pixel Art
-3304,Tiny Animated Fire Pixel Art
+3303,Tiny Animated Fire Pixel Art 1
+3304,Tiny Animated Fire Pixel Art 3
 3305,Pixel Art 805
 3306,Pixel Art 806
-3307,Pixel Art 806
+3307,Pixel Art 807
 3308,Pixel Art 808
 3309,Pixel Art 809
 3310,Pixel Art 810
@@ -2845,7 +2845,7 @@
 3342,Pixel Art 842
 3343,Pixel Art 843
 3344,Pixel Art 844
-3345,Pixel Art 1139
+3345,Pixel Art 845
 3346,Pixel Art 846
 3347,Pixel Art 847
 3348,Pixel Art 848
@@ -2864,13 +2864,13 @@
 3361,Pixel Art 861
 3362,Pixel Art 862
 3363,Pixel Art 863
-3364,Pixel Art 1139
+3364,Pixel Art 864
 3365,Pixel Art 865
 3366,Pixel Art 866
 3367,Pixel Art 867
 3368,Pixel Art 868
 3369,Pixel Art 869
-3370,Pixel Art 869
+3370,Pixel Art 870
 3371,Pixel Art 871
 3372,Pixel Art 872
 3373,Pixel Art 873
@@ -2881,10 +2881,10 @@
 3378,Pixel Art 878
 3379,Pixel Art 879
 3380,Pixel Art 880
-3381,Small Banner Pixel Art
-3382,Small Banner Pixel Art
-3383,Large Banner Pixel Art
-3384,Large Banner Pixel Art
+3381,Small Banner Pixel Art Short
+3382,Small Banner Pixel Art Long
+3383,Large Banner Pixel Art Short
+3384,Large Banner Pixel Art Long
 3385,Pixel Art 885
 3386,Pixel Art 886
 3387,Pixel Art 887
@@ -2923,11 +2923,11 @@
 3420,Pixel Art 920
 3421,Pixel Art 921
 3422,Pixel Art 922
-3423,Hanging Wire Pixel Art
-3424,Hanging Wire Pixel Art
-3425,Hanging Wire Pixel Art
-3426,Hanging Wire Pixel Art
-3427,Hanging Wire Pixel Art
+3423,Hanging Wire Pixel Art 1
+3424,Hanging Wire Pixel Art 2
+3425,Hanging Wire Pixel Art 3
+3426,Hanging Wire Pixel Art 4
+3427,Hanging Wire Pixel Art 5
 3428,Pixel Art 928
 3429,Pixel Art 929
 3430,Pixel Art 930
@@ -2984,7 +2984,7 @@
 3481,Pixel Art 981
 3482,Small Animated Fire Pixel Art
 3483,Medium Animated Fire Pixel Art
-3484,Large Animated Fire Pixel Art
+3484,Large Animated Fire Pixel Art 2
 3485,Pixel Art 985
 3486,Pixel Art 986
 3487,Pixel Art 987
@@ -3164,27 +3164,27 @@
 3700,Pixel Art 1100
 3701,Pixel Art 1101
 3702,Pixel Art 1102
-3703,Pixel Art 1087
-3704,Pixel Art 1088
+3703,Pixel Art 1103
+3704,Pixel Art 1104
 3705,Pixel Art 1105
-3706,Pixel Art 1090
+3706,Pixel Art 1106
 3707,Pixel Art 1107
 3708,Pixel Art 1108
 3709,Pixel Art 1109
 3710,Pixel Art 1110
-3711,Pixel Art 1096
+3711,Pixel Art 1111
 3712,Pixel Art 1112
 3713,Pixel Art 1113
 3714,Pixel Art 1114
-3715,Pixel Art 1087
-3716,Pixel Art 1088
+3715,Pixel Art 1115
+3716,Pixel Art 1116
 3717,Pixel Art 1117
-3718,Pixel Art 1090
+3718,Pixel Art 1118
 3719,Pixel Art 1119
 3720,Pixel Art 1120
 3721,Pixel Art 1121
 3722,Pixel Art 1122
-3723,Pixel Art 1096
+3723,Pixel Art 1123
 3724,Pixel Art 1124
 3725,Pixel Art 1125
 3726,Pixel Art 1126
@@ -3202,10 +3202,10 @@
 3738,Pixel Art 1138
 3739,Pixel Art 1139
 3740,Pixel Art 1140
-3741,Pixel Art 1087
-3742,Pixel Art 1088
+3741,Pixel Art 1141
+3742,Pixel Art 1142
 3743,Pixel Art 1143
-3744,Pixel Art 1090
+3744,Pixel Art 1144
 3745,Pixel Art 1145
 3746,Pixel Art 1146
 3747,Pixel Art 1147
@@ -3213,7 +3213,7 @@
 3749,Pixel Art 1149
 3750,Pixel Art 1150
 3751,Pixel Art 1151
-3752,Pixel Art 1126
+3752,Pixel Art 1152
 3753,Pixel Art 1153
 3754,Pixel Art 1154
 3755,Pixel Art 1155
@@ -3290,7 +3290,7 @@
 3827,Glow Star Particle
 3828,Glow Point Particle
 3829,Smoke Ball Particle
-3830,Droplet Particle 1
+3830,Splash Particle 7
 3831,Gradient Line Particle
 3832,Bidirectional Glow Line Particle
 3833,Line Particle
@@ -3298,7 +3298,7 @@
 3835,Rock Particle
 3836,Saw Particle
 3837,Spike Blade Particle
-3838,Droplet Particle 1
+3838,Splash Particle 8
 3839,Swirl Particle 1
 3840,Soul Particle
 3841,Star Glow Particle 1
@@ -3689,7 +3689,7 @@
 4226,Pixel Art 1426
 4227,Pixel Art 1427
 4228,Pixel Art 1428
-4229,Pixel Art 1330
+4229,Pixel Art 1429
 4230,Pixel Art 1430
 4231,Pixel Art 1431
 4232,Pixel Art 1432
@@ -3774,7 +3774,7 @@
 4311,Pixel Art 1511
 4312,Pixel Art 1512
 4313,Pixel Art 1513
-4314,Pixel Art 1139
+4314,Pixel Art 1514
 4315,Pixel Art 1515
 4316,Pixel Art 1516
 4317,Pixel Art 1517
@@ -3803,7 +3803,7 @@
 4340,Pixel Art 1540
 4341,Pixel Art 1541
 4342,Pixel Art 1542
-4343,Pixel Art 1403
+4343,Pixel Art 1543
 4344,Pixel Art 1544
 4345,Pixel Art 1545
 4346,Pixel Art 1546
